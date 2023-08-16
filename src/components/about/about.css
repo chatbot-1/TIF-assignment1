@@ -1,0 +1,39 @@
+.about{
+    height: 663px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #0E2368;
+    overflow: hidden;
+}
+.about-img img{
+    height: 350px;
+}
+.about-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+}
+.about-data{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.about-data h1{
+    font-size: 40px;
+}
+.about-data p{
+    font-size: 15px;
+}
+
+@media (max-width: 375px) {
+    .about-content{
+        display: flex;
+        flex-direction: column;
+    }
+    .about-img img{
+        display: none;
+    }
+}
