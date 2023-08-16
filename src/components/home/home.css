@@ -59,8 +59,9 @@
 }
 .home-heading{
     color: #0E2368;
-    font-size: 25px;
+    font-size: 27px;
     padding-bottom: 20px;
+    line-height: 55px;
 }
 .home-para{
     width: 300px;

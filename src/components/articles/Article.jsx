@@ -60,7 +60,7 @@ const Article = () => {
             <div>
               <h3>
                 <div className="card card1">
-                  <img src={card1} alt="" />
+                  <img src={card6} alt="" />
                   <div className="card-data">
                     <h2>Grilled Tomatoes at Home</h2>
                     <p>
@@ -76,7 +76,7 @@ const Article = () => {
             <div>
               <h3>
                 <div className="card card2">
-                  <img src={card2} alt="" />
+                  <img src={card5} alt="" />
                   <div className="card-data">
                     <h2>Snacks for Travel</h2>
                     <p>
@@ -92,7 +92,7 @@ const Article = () => {
             <div>
               <h3>
                 <div className="card card2">
-                  <img src={card2} alt="" />
+                  <img src={card4} alt="" />
                   <div className="card-data">
                     <h2>Snacks for Travel</h2>
                     <p>
@@ -110,7 +110,7 @@ const Article = () => {
                 <div className="card card3">
                   <img src={card3} alt="" />
                   <div className="card-data">
-                    <h2>Post-workout Recipes</h2>
+                    <h2>How To Grill Corn</h2>
                     <p>
                       PLorem Ipsum is simply dummy text of the printing and
                       typesetting industry. Lorem Ipsum has been the industry's
@@ -124,9 +124,9 @@ const Article = () => {
             <div>
               <h3>
                 <div className="card card3">
-                  <img src={card3} alt="" />
+                  <img src={card2} alt="" />
                   <div className="card-data">
-                    <h2>Post-workout Recipes</h2>
+                    <h2>Crunchwrap Supreme</h2>
                     <p>
                       PLorem Ipsum is simply dummy text of the printing and
                       typesetting industry. Lorem Ipsum has been the industry's
@@ -140,9 +140,9 @@ const Article = () => {
             <div>
               <h3>
                 <div className="card card3">
-                  <img src={card3} alt="" />
+                  <img src={card1} alt="" />
                   <div className="card-data">
-                    <h2>Post-workout Recipes</h2>
+                    <h2>Broccoli Cheese Soup</h2>
                     <p>
                       PLorem Ipsum is simply dummy text of the printing and
                       typesetting industry. Lorem Ipsum has been the industry's

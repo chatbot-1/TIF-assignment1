@@ -5,35 +5,15 @@
     color: #0E2368;
     overflow: hidden;
 }
-/* .art-cards{
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 100px;
-} */
-.card{
-    /* border: 1px solid rgba(128, 128, 128, 0.356);
-    padding: 18px;
-    border-radius: 20px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    gap: 30px;
-    height: 430px;
-    margin: 0 35px;
-    margin-bottom: 30px; */
-    /* overflow: hidden; */
-}
-.art-cards{
-}
+
 .card{
     display: flex;
     flex-direction: column;
     margin: 0 40px;
     gap: 30px;
     padding: 20px;
-    border: 1px solid grey;
+    border: 1px solid rgba(128, 128, 128, 0.356);
+    border-radius: 25px;
 }
 .art-head{
     padding-bottom: 60px;
